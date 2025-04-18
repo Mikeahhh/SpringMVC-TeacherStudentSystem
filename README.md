@@ -56,16 +56,7 @@ These accounts are automatically created on startup:
 Role	Username	Password	Email	Description
 Teacher	teacher1	123456	teacher@example.com	Can manage content
 Student	student1	123456	student@example.com	Can view, vote, comment
-📁 Project Structure
 
-src/
-├── config/             # Security and data initialization
-├── controllers/        # Web controllers
-├── models/             # Entity classes
-├── repositories/       # Database access
-├── templates/          # Thymeleaf HTML templates
-├── static/             # Static files (CSS, JS)
-└── ...
 🤝 Contributing
 Contributions are welcome!
 
