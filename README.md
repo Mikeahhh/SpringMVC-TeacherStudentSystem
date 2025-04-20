@@ -3,7 +3,7 @@
 This is a full-featured **Teacher-Student Management System** built with **Spring MVC**, designed for managing users, courses, lectures, voting, and comments. It is ideal for educational purposes, online learning platforms, or classroom interactions.
 
 ---
-
+Show Video：https://youtu.be/7En4_wXZ-nc
 ## 🌟 Features
 
 - ✅ User registration and login (roles: Teacher, Student)
